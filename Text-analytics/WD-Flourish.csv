@@ -1,0 +1,1094 @@
+﻿Category,Category_1,Category_2,Entity
+abstract_concept,abstract_concept,abstract_concept,Attention
+abstract_concept,abstract_concept,abstract_concept,Beauty
+abstract_concept,abstract_concept,abstract_concept,Concept
+abstract_concept,abstract_concept,abstract_concept,Darkness
+abstract_concept,abstract_concept,abstract_concept,Femininity
+abstract_concept,abstract_concept,abstract_concept,Habit
+abstract_concept,abstract_concept,abstract_concept,Longevity
+abstract_concept,abstract_concept,abstract_concept,Luck
+abstract_concept,abstract_concept,abstract_concept,Masculinity
+abstract_concept,abstract_concept,abstract_concept,Mercy
+abstract_concept,abstract_concept,abstract_concept,Mind
+abstract_concept,abstract_concept,abstract_concept,Mirror image
+abstract_concept,abstract_concept,abstract_concept,Morality
+abstract_concept,abstract_concept,abstract_concept,Mysticism
+abstract_concept,abstract_concept,abstract_concept,Nothing
+abstract_concept,abstract_concept,abstract_concept,Principle
+abstract_concept,abstract_concept,abstract_concept,Probability
+abstract_concept,abstract_concept,abstract_concept,Prosperity
+abstract_concept,abstract_concept,abstract_concept,Reason
+abstract_concept,abstract_concept,abstract_concept,Soul
+abstract_concept,abstract_concept,abstract_concept,Spirituality
+abstract_concept,abstract_concept,abstract_concept,Supernatural
+abstract_concept,abstract_concept,abstract_concept,Superstition
+abstract_concept,abstract_concept,abstract_concept,Third eye
+abstract_concept,abstract_concept,abstract_concept,Trinity
+abstract_concept,abstract_concept,abstract_concept,Truth
+abstract_concept,abstract_concept,abstract_concept,Virtue
+abstract_concept,abstract_concept,abstract_concept,Wealth
+abstract_concept,abstract_concept,abstract_concept,Wisdom
+action,action,action,Threshing
+action,action,action,Torture
+action,action,action,Wear
+action,action,action,Winnowing
+agriculture,agriculture,agriculture,Crop
+agriculture,agriculture,agriculture,Harvest
+architecture/architectural_style,architecture,architectural_style,Arch
+architecture/architectural_style,architecture,architectural_style,Architecture
+architecture/architectural_style,architecture,architectural_style,Balcony
+architecture/architectural_style,architecture,architectural_style,Capital (architecture)
+architecture/architectural_style,architecture,architectural_style,Perpendicular
+architecture/architectural_style,architecture,architectural_style,Pilaster
+architecture/architectural_style,architecture,architectural_style,Pointed arch
+architecture/architectural_style,architecture,architectural_style,Portico
+architecture/building_complex,architecture,building_complex,Chinese garden
+architecture/building_complex,architecture,building_complex,Garden
+architecture/building_complex,architecture,building_complex,Imperial City
+architecture/building_complex,architecture,building_complex,Transmission tower
+architecture/building_complex,architecture,building_complex,Urban planning
+architecture/building_function,architecture,building_function,Column
+architecture/building_function,architecture,building_function,Defensive wall
+architecture/building_function,architecture,building_function,Factory
+architecture/building_function,architecture,building_function,Floor
+architecture/building_function,architecture,building_function,Fortification
+architecture/building_function,architecture,building_function,Frieze
+architecture/building_function,architecture,building_function,Gate
+architecture/building_function,architecture,building_function,Home altar
+architecture/building_function,architecture,building_function,Kiln
+architecture/building_function,architecture,building_function,Kitchen
+architecture/building_function,architecture,building_function,Manhole
+architecture/building_function,architecture,building_function,Manhole cover
+architecture/building_function,architecture,building_function,Monastery
+architecture/building_function,architecture,building_function,Museum
+architecture/building_function,architecture,building_function,Palace
+architecture/building_function,architecture,building_function,Pedestal
+architecture/building_function,architecture,building_function,Porch
+architecture/building_function,architecture,building_function,Room
+architecture/building_function,architecture,building_function,Studio
+architecture/building_function,architecture,building_function,Stupa
+architecture/building_function,architecture,building_function,Tower
+architecture/building_function,architecture,building_function,Warehouse
+architecture/building_function,architecture,building_function,Wharf
+architecture/construction_material,architecture,construction_material,Building material
+architecture/construction_material,architecture,construction_material,Construction
+architecture/construction_material,architecture,construction_material,Molding (process)
+architecture/construction_material,architecture,construction_material,Porcelain
+architecture/construction_material,architecture,construction_material,Roof
+architecture/construction_material,architecture,construction_material,Stoneware
+architecture/construction_material,architecture,construction_material,Straw
+architecture/construction_material,architecture,construction_material,Terracotta
+architecture/construction_material,architecture,construction_material,Tile
+architecture/construction_material,architecture,construction_material,Truss
+architecture/construction_material,architecture,construction_material,Wall
+architecture/construction_material,architecture,construction_material,Wood
+astronomy,astronomy,astronomy,Star chart
+astronomy,astronomy,astronomy,Universe
+astronomy/celestial_object_category,astronomy,celestial_object_category,Beta
+astronomy/celestial_object_category,astronomy,celestial_object_category,Moon
+astronomy/celestial_object_category,astronomy,celestial_object_category,Satellite
+astronomy/celestial_object_category,astronomy,celestial_object_category,Star
+astronomy/constellation,astronomy,constellation,Alpha
+astronomy/constellation,astronomy,constellation,Constellation
+astronomy/constellation,astronomy,constellation,Ursa Major
+astronomy/phenomena,astronomy,phenomena,Horizon
+astronomy/phenomena,astronomy,phenomena,Lunar phase
+astronomy/phenomena,astronomy,phenomena,Sky
+astronomy/phenomena,astronomy,phenomena,Space
+beverage,beverage,beverage,Drink
+beverage,beverage,beverage,Pint
+beverage,beverage,beverage,Tea
+beverage,beverage,beverage,Wine
+biology/animal,biology,animal,Animal
+biology/animal,biology,animal,Bat
+biology/animal,biology,animal,Bear
+biology/animal,biology,animal,Bird
+biology/animal,biology,animal,Bull
+biology/animal,biology,animal,Cattle
+biology/animal,biology,animal,Chicken
+biology/animal,biology,animal,Conch
+biology/animal,biology,animal,Coral
+biology/animal,biology,animal,Crab
+biology/animal,biology,animal,Crane (bird)
+biology/animal,biology,animal,Deer
+biology/animal,biology,animal,Dog
+biology/animal,biology,animal,Duck
+biology/animal,biology,animal,Fish
+biology/animal,biology,animal,Fly
+biology/animal,biology,animal,Frog
+biology/animal,biology,animal,Golden pheasant
+biology/animal,biology,animal,Hare
+biology/animal,biology,animal,Horse
+biology/animal,biology,animal,Human
+biology/animal,biology,animal,Lion
+biology/animal,biology,animal,Livestock
+biology/animal,biology,animal,Lobster
+biology/animal,biology,animal,Offspring
+biology/animal,biology,animal,Owl
+biology/animal,biology,animal,Ox
+biology/animal,biology,animal,Oyster
+biology/animal,biology,animal,Peafowl
+biology/animal,biology,animal,Pheasant
+biology/animal,biology,animal,Pig
+biology/animal,biology,animal,Polycephaly
+biology/animal,biology,animal,Riding horse
+biology/animal,biology,animal,Shrimp
+biology/animal,biology,animal,Snake
+biology/animal,biology,animal,Tiger
+biology/animal,biology,animal,Turtle
+biology/animal,biology,animal,van vis en
+biology/animal,biology,animal,Working animal
+biology,biology,biology,Family (biology)
+biology/mold,biology,mold,Fungus
+biology/mold,biology,mold,Lingzhi (mushroom)
+biology/mold,biology,mold,Mushroom
+biology/mold,biology,mold,Turtle shell
+biology/organism_part,biology,organism_part,Arm
+biology/organism_part,biology,organism_part,Beak
+biology/organism_part,biology,organism_part,Bone
+biology/organism_part,biology,organism_part,Breast
+biology/organism_part,biology,organism_part,Buttocks
+biology/organism_part,biology,organism_part,Ear
+biology/organism_part,biology,organism_part,Eye
+biology/organism_part,biology,organism_part,Face
+biology/organism_part,biology,organism_part,Foot
+biology/organism_part,biology,organism_part,Hair
+biology/organism_part,biology,organism_part,Hand
+biology/organism_part,biology,organism_part,Hindlimb
+biology/organism_part,biology,organism_part,Human body
+biology/organism_part,biology,organism_part,Lap
+biology/organism_part,biology,organism_part,Leaf
+biology/organism_part,biology,organism_part,Leg
+biology/organism_part,biology,organism_part,Lip
+biology/organism_part,biology,organism_part,Mouth
+biology/organism_part,biology,organism_part,Neck
+biology/organism_part,biology,organism_part,Petal
+biology/organism_part,biology,organism_part,Seed
+biology/organism_part,biology,organism_part,Tail
+biology/organism_part,biology,organism_part,Tendril
+biology/organism_part,biology,organism_part,Tongue
+biology/organism_part,biology,organism_part,van berenklauwen
+biology/organism_part,biology,organism_part,Wing
+biology/plants,biology,plants,Bamboo
+biology/plants,biology,plants,Bud
+biology/plants,biology,plants,Cotton
+biology/plants,biology,plants,Ebony
+biology/plants,biology,plants,Evergreen
+biology/plants,biology,plants,Flower
+biology/plants,biology,plants,Gourd
+biology/plants,biology,plants,Mugwort
+biology/plants,biology,plants,Nelumbo nucifera
+biology/plants,biology,plants,Oak
+biology/plants,biology,plants,Peony
+biology/plants,biology,plants,Pine
+biology/plants,biology,plants,Plant
+biology/plants,biology,plants,Tree
+biology/plants,biology,plants,Vine
+biology/plants,biology,plants,Willow
+boats/hull_material,boats,hull_material,Hull (watercraft)
+boats/ship_type,boats,ship_type,Anchor
+boats/ship_type,boats,ship_type,Barge
+boats/ship_type,boats,ship_type,Boat
+boats/ship_type,boats,ship_type,Bow (watercraft)
+boats/ship_type,boats,ship_type,Deck (ship)
+boats/ship_type,boats,ship_type,East Indiaman
+boats/ship_type,boats,ship_type,Merchant ship
+boats/ship_type,boats,ship_type,Western East Indiamen
+book/literature,book,literature,Chinese literature
+book/literature,book,literature,Chinese poetry
+book/literature,book,literature,Colophon (publishing)
+book/literature,book,literature,Fantasy
+book/literature,book,literature,L'Astrée
+book/literature,book,literature,Legend
+book/literature,book,literature,Literature
+book/literature,book,literature,Poetry
+book/literature,book,literature,Tang Dynasty Liangzhou Ci
+book/written_work,book,written_work,Almanac
+book/written_work,book,written_work,Anthology
+book/written_work,book,written_work,Book
+book/written_work,book,written_work,Scroll
+book/written_work,book,written_work,The Classic of Tea
+book/written_work,book,written_work,Zhuangzi (book)
+business,business,business,Final good
+business,business,business,Trade
+business/business_operation,business,business_operation,Ancient Chinese coinage
+business/business_operation,business,business_operation,Bottomry
+business/business_operation,business,business_operation,Consumer
+business/business_operation,business,business_operation,Customs
+business/business_operation,business,business_operation,Deed
+business/business_operation,business,business_operation,Export
+business/business_operation,business,business_operation,Hong (business)
+business/business_operation,business,business_operation,Inspection
+business/business_operation,business,business_operation,Monopoly
+business/business_operation,business,business_operation,Tax
+business/company_type,business,company_type,Dutch East India Company
+business/company_type,business,company_type,East India Company
+business/company_type,business,company_type,James Harrison Furniture Company
+business/company_type,business,company_type,Philippine Trading Company
+business/company_type,business,company_type,San He Xing
+business/industry,business,industry,Agriculture
+business/industry,business,industry,Agriculture in China
+business/industry,business,industry,Animal husbandry
+business/industry,business,industry,Economy
+business/industry,business,industry,International trade
+business/industry,business,industry,Manufacturing
+business/industry,business,industry,Mass production
+business/industry,business,industry,Patronage
+business/industry,business,industry,Teahouse
+business/industry,business,industry,Traditional Chinese medicine
+business/industry,business,industry,Welfare
+business/product_category,business,product_category,Inventory
+business/product_category,business,product_category,Luxury goods
+business/product_category,business,product_category,Money
+chemistry/chemical_compound,chemistry,chemical_compound,Iron oxide
+chemistry/chemical_compound,chemistry,chemical_compound,Mixture
+chemistry/chemical_compound,chemistry,chemical_compound,Oil
+chemistry/chemical_compound,chemistry,chemical_compound,Opium
+chemistry/chemical_compound,chemistry,chemical_compound,Oxide
+chemistry/chemical_compound,chemistry,chemical_compound,Powder
+chemistry/chemical_compound,chemistry,chemical_compound,Wax
+chemistry/chemical_element,chemistry,chemical_element,Cobalt
+chemistry/chemical_element,chemistry,chemical_element,Iron
+chemistry/chemical_element,chemistry,chemical_element,Lead
+chemistry/chemical_element,chemistry,chemical_element,Metal
+chemistry/chemical_element,chemistry,chemical_element,Pewter
+chemistry/chemical_element,chemistry,chemical_element,Shui
+chemistry/chemical_element,chemistry,chemical_element,Silver
+chemistry/chemical_element,chemistry,chemical_element,Turquoise
+computer/computing_platform,computer,computing_platform,Graphical user interface
+culture,culture,culture,Appanage
+culture,culture,culture,Chinese culture
+culture,culture,culture,Civilization
+culture,culture,culture,Culture
+culture,culture,culture,Dress code
+culture,culture,culture,Etiquette
+culture,culture,culture,Feng shui
+culture,culture,culture,Geomancy
+culture,culture,culture,Gift
+culture,culture,culture,Japanese tea ceremony
+culture,culture,culture,Nian
+culture,culture,culture,Shou (character)
+culture,culture,culture,Tradition
+culture,culture,culture,Xing
+dataworld/information_source,dataworld,information_source,Data
+dataworld/information_source,dataworld,information_source,Information
+dataworld/information_source,dataworld,information_source,Opinion
+dataworld/information_source,dataworld,information_source,Social history
+dataworld/information_source,dataworld,information_source,The Hindu
+dataworld/information_source,dataworld,information_source,Translation
+education,education,education,Exam
+education,education,education,Imperial examination
+education/field_of_study,education,field_of_study,Ethnology
+education/field_of_study,education,field_of_study,Glossary of archaeology
+education/field_of_study,education,field_of_study,Glossary of plant morphology
+education/field_of_study,education,field_of_study,Knowledge
+education/field_of_study,education,field_of_study,Literacy
+education/field_of_study,education,field_of_study,Sinology
+education/school_category,education,school_category,Han Lin
+emotion,emotion,emotion,Compassion
+emotion,emotion,emotion,Deference
+emotion,emotion,emotion,Dignity
+emotion,emotion,emotion,Fidelity
+emotion,emotion,emotion,Gesture
+emotion,emotion,emotion,Happiness
+emotion,emotion,emotion,Religious experience
+entertainment,entertainment,entertainment,Dance
+event,event,event,Ceremony
+event,event,event,Festival
+event,event,event,Fireworks
+event,event,event,French Revolution
+event,event,event,Funeral
+event,event,event,Hundred Days' Reform
+event,event,event,Lantern Festival
+event,event,event,Oil spill
+event,event,event,Parade
+event,event,event,Pollution
+event,event,event,Treaty
+event,event,event,Treaty of Nanking
+event,event,event,Urbanization
+event,event,event,War
+fashion/accessory,fashion,accessory,Belt buckle
+fashion/accessory,fashion,accessory,Buckle
+fashion/accessory,fashion,accessory,Button
+fashion/accessory,fashion,accessory,Diadem
+fashion/accessory,fashion,accessory,Hairpin
+fashion/accessory,fashion,accessory,Headband
+fashion/accessory,fashion,accessory,Jewellery
+fashion/accessory,fashion,accessory,Pendant
+fashion/accessory,fashion,accessory,Prayer beads
+fashion/accessory,fashion,accessory,Tassel
+fashion/accessory,fashion,accessory,Umbrella
+fashion,fashion,fashion,Clothing
+fashion,fashion,fashion,Hairstyle
+fashion/garment,fashion,garment,Apron
+fashion/garment,fashion,garment,Belt (clothing)
+fashion/garment,fashion,garment,Cloak
+fashion/garment,fashion,garment,Dress
+fashion/garment,fashion,garment,Hat
+fashion/garment,fashion,garment,Headgear
+fashion/garment,fashion,garment,Overcoat
+fashion/garment,fashion,garment,Pillow
+fashion/garment,fashion,garment,Robe
+fashion/garment,fashion,garment,Trousers
+fashion/weave,fashion,weave,Embroidery
+fashion/weave,fashion,weave,Persian carpet
+fashion/weave,fashion,weave,Satin
+fashion/weave,fashion,weave,Thread (yarn)
+fictional_universe/character_species,fictional_universe,character_species,Nāga
+fictional_universe/fictional_character,fictional_universe,fictional_character,Monster
+fictional_universe/fictional_character,fictional_universe,fictional_character,Pangu
+fictional_universe/fictional_character,fictional_universe,fictional_character,Sea monster
+fictional_universe/fictional_setting,fictional_universe,fictional_setting,Astrée
+fictional_universe/fictional_setting,fictional_universe,fictional_setting,Mount Penglai
+fictional_universe/fictional_universe,fictional_universe,fictional_universe,Myth
+food/dish,food,dish,Amrita
+food/dish,food,dish,Frog legs
+food/dish,food,dish,Green tea
+food,food,food,Dough
+food,food,food,Food
+food,food,food,Ghee
+food,food,food,Grain
+food,food,food,Rice
+food,food,food,Staple food
+food,food,food,Vegetable
+food/fruit,food,fruit,Buckwheat
+food/fruit,food,fruit,Coconut
+food/fruit,food,fruit,Fruit
+food/fruit,food,fruit,Peach
+games/game,games,game,Go (game)
+geography/archaeological_site,geography,archaeological_site,Archaeological site
+geography/archaeological_site,geography,archaeological_site,Banshan
+geography/archaeological_site,geography,archaeological_site,Banshan Hills
+geography/archaeological_site,geography,archaeological_site,Bei Lin
+geography/archaeological_site,geography,archaeological_site,Oracle bone
+geography/archaeological_site,geography,archaeological_site,Terracotta Army
+geography/archaeological_site,geography,archaeological_site,Tianlongshan Grottoes
+geography/archaeological_site,geography,archaeological_site,Tianmu
+geography/archaeological_site,geography,archaeological_site,Tomb
+geography/archaeological_site,geography,archaeological_site,Xian Beilin
+geography/archaeological_site,geography,archaeological_site,Yangshao culture
+geography/archaeological_site,geography,archaeological_site,Yinxu
+geography/archaeological_site,geography,archaeological_site,Yumen Pass
+geography/body_of_water,geography,body_of_water,Bay
+geography/body_of_water,geography,body_of_water,Creek
+geography/body_of_water,geography,body_of_water,Harbor
+geography/body_of_water,geography,body_of_water,Humen
+geography/body_of_water,geography,body_of_water,Pond
+geography/body_of_water,geography,body_of_water,Reservoir
+geography/body_of_water,geography,body_of_water,River
+geography/body_of_water,geography,body_of_water,Roadstead
+geography/body_of_water,geography,body_of_water,Sea
+geography/body_of_water,geography,body_of_water,Stream
+geography/body_of_water,geography,body_of_water,Tigris
+geography/body_of_water,geography,body_of_water,Victoria Harbour
+geography/body_of_water,geography,body_of_water,Wei River
+geography/body_of_water,geography,body_of_water,Yellow River
+geography/city_name,geography,city_name,Anyang
+geography/city_name,geography,city_name,Beijing
+geography/city_name,geography,city_name,Berlin
+geography/city_name,geography,city_name,city of Tianjin
+geography/city_name,geography,city_name,Dunhuang
+geography/city_name,geography,city_name,Épinal
+geography/city_name,geography,city_name,Fujian
+geography/city_name,geography,city_name,Guangzhou
+geography/city_name,geography,city_name,Hanoi
+geography/city_name,geography,city_name,Hong Kong
+geography/city_name,geography,city_name,Lanzhou
+geography/city_name,geography,city_name,Macau
+geography/city_name,geography,city_name,Nanjing
+geography/city_name,geography,city_name,Paris
+geography/city_name,geography,city_name,Pazhou
+geography/city_name,geography,city_name,Shanghai
+geography/city_name,geography,city_name,"Sien, Germany"
+geography/city_name,geography,city_name,Thanh Hóa
+geography/city_name,geography,city_name,Tianjin
+geography/city_name,geography,city_name,Town
+geography/city_name,geography,city_name,"Wuwei, Gansu"
+geography/city_name,geography,city_name,Xi'an
+geography/city_name,geography,city_name,Xiamen
+geography/city_name,geography,city_name,Yumen City
+geography/country_name,geography,country_name,Achaemenid Empire
+geography/country_name,geography,country_name,Cao Wei
+geography/country_name,geography,country_name,China
+geography/country_name,geography,country_name,Chu (state)
+geography/country_name,geography,country_name,Denmark
+geography/country_name,geography,country_name,France
+geography/country_name,geography,country_name,Guo
+geography/country_name,geography,country_name,India
+geography/country_name,geography,country_name,Indonesia
+geography/country_name,geography,country_name,Ireland
+geography/country_name,geography,country_name,Japan
+geography/country_name,geography,country_name,Mongolia
+geography/country_name,geography,country_name,Nepal
+geography/country_name,geography,country_name,Netherlands
+geography/country_name,geography,country_name,Philippines
+geography/country_name,geography,country_name,Russia
+geography/country_name,geography,country_name,Spain
+geography/country_name,geography,country_name,Sweden
+geography/country_name,geography,country_name,United States
+geography/country_name,geography,country_name,Vietnam
+geography/geographical_feature_category,geography,geographical_feature_category,Anchorage (maritime)
+geography/geographical_feature_category,geography,geographical_feature_category,Arable land
+geography/geographical_feature_category,geography,geographical_feature_category,Cave
+geography/geographical_feature_category,geography,geographical_feature_category,Cliff
+geography/geographical_feature_category,geography,geographical_feature_category,Delta
+geography/geographical_feature_category,geography,geographical_feature_category,Drainage basin
+geography/geographical_feature_category,geography,geographical_feature_category,Forest
+geography/geographical_feature_category,geography,geographical_feature_category,Himalayas
+geography/geographical_feature_category,geography,geographical_feature_category,Mountain
+geography/geographical_feature_category,geography,geographical_feature_category,Natural environment
+geography/geographical_feature_category,geography,geographical_feature_category,North
+geography/geographical_feature_category,geography,geographical_feature_category,South
+geography/geographical_feature_category,geography,geographical_feature_category,Steppe
+geography/geographical_feature_category,geography,geographical_feature_category,Waterfall
+geography/geographical_feature_category,geography,geographical_feature_category,West
+geography,geography,geography,Frontier
+geography,geography,geography,Liang (realm)
+geography/protected_listed_site,geography,protected_listed_site,Cemetery
+geography/protected_listed_site,geography,protected_listed_site,Stele Forest
+geography/protected_listed_site,geography,protected_listed_site,Weltmuseum Wien
+geography/region_name,geography,region_name,Asia
+geography/region_name,geography,region_name,Bath
+geography/region_name,geography,region_name,Buffalo
+geography/region_name,geography,region_name,Central Asia
+geography/region_name,geography,region_name,East
+geography/region_name,geography,region_name,East Asia
+geography/region_name,geography,region_name,Europe
+geography/region_name,geography,region_name,Gansu
+geography/region_name,geography,region_name,Henan
+geography/region_name,geography,region_name,Henri Gourdon
+geography/region_name,geography,region_name,Hog Lane
+geography/region_name,geography,region_name,Mongol Empire
+geography/region_name,geography,region_name,New China Street
+geography/region_name,geography,region_name,Northern and southern China
+geography/region_name,geography,region_name,Old China
+geography/region_name,geography,region_name,Pearl River Delta
+geography/region_name,geography,region_name,Prefecture
+geography/region_name,geography,region_name,Qi (state)
+geography/region_name,geography,region_name,Republic China
+geography/region_name,geography,region_name,Republic of China (1912–1949)
+geography/region_name,geography,region_name,Roman Empire
+geography/region_name,geography,region_name,Shaanxi
+geography/region_name,geography,region_name,South China
+geography/region_name,geography,region_name,States and union territories of India
+geography/region_name,geography,region_name,Tonkin
+geography/region_name,geography,region_name,Treaty ports
+geography/region_name,geography,region_name,Western world
+geography/region_name,geography,region_name,Wuwei Canton
+geography/region_name,geography,region_name,Xu (state)
+geography/region_name,geography,region_name,Yan (state)
+geography/region_name,geography,region_name,Yue (state)
+geography/region_name,geography,region_name,Zhejiang
+geology/rock_type,geology,rock_type,Agate
+geology/rock_type,geology,rock_type,Amber
+geology/rock_type,geology,rock_type,Bronze
+geology/rock_type,geology,rock_type,Chalcedony
+geology/rock_type,geology,rock_type,Cinnabar
+geology/rock_type,geology,rock_type,Clay
+geology/rock_type,geology,rock_type,Coal
+geology/rock_type,geology,rock_type,Diamond
+geology/rock_type,geology,rock_type,Earth
+geology/rock_type,geology,rock_type,Gemstone
+geology/rock_type,geology,rock_type,Gold
+geology/rock_type,geology,rock_type,Gold nugget
+geology/rock_type,geology,rock_type,Ice
+geology/rock_type,geology,rock_type,Jade
+geology/rock_type,geology,rock_type,Jasper
+geology/rock_type,geology,rock_type,Mani stone
+geology/rock_type,geology,rock_type,Mineral
+geology/rock_type,geology,rock_type,Nacre
+geology/rock_type,geology,rock_type,Pearl
+geology/rock_type,geology,rock_type,Rock (geology)
+geology/rock_type,geology,rock_type,Soapstone
+geology/rock_type,geology,rock_type,Soil
+government/government_office_or_title,government,government_office_or_title,Civil service
+government/government_office_or_title,government,government_office_or_title,Governor
+government/government_office_or_title,government,government_office_or_title,Passport
+government/government_office_or_title,government,government_office_or_title,Ruler
+government/political_ideology,government,political_ideology,Far-left politics
+government/political_ideology,government,political_ideology,Far-right politics
+government/political_ideology,government,political_ideology,Politics
+government/practice,government,practice,Exile
+government/practice,government,practice,Lingchi
+government/practice,government,practice,Punishment
+history,history,history,Han dynasty
+history,history,history,History
+history,history,history,History of art
+history,history,history,History of China
+history,history,history,Jin dynasty (266–420)
+history,history,history,Ju (state)
+household_goods,household_goods,household_goods,Cupboard
+household_goods,household_goods,household_goods,Curtain
+household_goods,household_goods,household_goods,Ear pick
+household_goods,household_goods,household_goods,Furniture
+household_goods,household_goods,household_goods,Kettle
+household_goods,household_goods,household_goods,Lid
+household_goods,household_goods,household_goods,Soap
+household_goods,household_goods,household_goods,Tableware
+language,language,language,Chinese language
+language,language,language,Dutch language
+language,language,language,Ellipsis
+language,language,language,English language
+language,language,language,Fluency
+language,language,language,Jinli language De
+language,language,language,Language
+language,language,language,Latin
+language,language,language,Maar als
+language,language,language,Standard Chinese
+language,language,language,Syllable
+language,language,language,Vernacular
+language,language,language,Vocabulary
+language,language,language,Word
+language/writing_system,language,writing_system,Chinese characters
+language/writing_system,language,writing_system,Hepburn romanization
+language/writing_system,language,writing_system,Latin script
+language/writing_system,language,writing_system,Old Chinese
+language/writing_system,language,writing_system,Pictogram
+language/writing_system,language,writing_system,Pinyin
+language/writing_system,language,writing_system,Regular script
+language/writing_system,language,writing_system,Seal script
+language/writing_system,language,writing_system,Tibetan script
+language/writing_system,language,writing_system,Traditional Chinese characters
+language/writing_system,language,writing_system,Wade–Giles
+language/writing_system,language,writing_system,Writing
+law,law,law,Forgery
+law,law,law,Law
+law,law,law,License
+mathematics,mathematics,mathematics,Euclidean plane
+medicine/anatomical_structure,medicine,anatomical_structure,Anatomical terms of motion
+medicine/anatomical_structure,medicine,anatomical_structure,Meridian (Chinese medicine)
+medicine/anatomical_structure,medicine,anatomical_structure,Scapula
+medicine/anatomical_structure,medicine,anatomical_structure,Shoulder
+medicine/anatomical_structure,medicine,anatomical_structure,Skin
+medicine/anatomical_structure,medicine,anatomical_structure,Skull
+medicine/anatomical_structure,medicine,anatomical_structure,Stomach
+medicine/disease,medicine,disease,Disease
+medicine/drug,medicine,drug,Elixir
+medicine/medical_treatment,medicine,medical_treatment,Acupuncture
+medicine/medical_treatment,medicine,medical_treatment,Blood
+medicine/medical_treatment,medicine,medical_treatment,Childbirth
+medicine/medical_treatment,medicine,medical_treatment,Faith healing
+medicine/risk_factor,medicine,risk_factor,Fracture
+medicine/symptom,medicine,symptom,Pain
+medicine/symptom,medicine,symptom,Stroke
+meteorology,meteorology,meteorology,Cloud
+meteorology,meteorology,meteorology,Cumulus cloud
+meteorology,meteorology,meteorology,Lightning
+meteorology,meteorology,meteorology,Monsoon
+meteorology,meteorology,meteorology,Rain
+meteorology,meteorology,meteorology,Snow
+meteorology,meteorology,meteorology,Thunder
+meteorology,meteorology,meteorology,Wave
+meteorology,meteorology,meteorology,Weather
+meteorology,meteorology,meteorology,Wind
+military/military_combatant,military,military_combatant,Prisoner of war
+military/military_combatant,military,military_combatant,Warlord
+military/military_resource,military,military_resource,Armour
+military/military_resource,military,military_resource,Cuirass
+military/military_resource,military,military_resource,Destroyer
+military/military_resource,military,military_resource,Military rank
+military/military_resource,military,military_resource,Shield
+military/military_unit_size,military,military_unit_size,Adjutant
+military/military_unit_size,military,military_unit_size,French Forces of the Interior
+military/military_unit_size,military,military_unit_size,Lieutenant
+music/genre,music,genre,Folk music
+music/genre,music,genre,Rock music
+music/instrument,music,instrument,Drum
+music/instrument,music,instrument,Flute
+music/instrument,music,instrument,Guitar
+music/instrument,music,instrument,Hi-hat
+music/instrument,music,instrument,Musical instrument
+music/instrument,music,instrument,Sound board (music)
+music/instrument,music,instrument,Sounding board
+music/instrument,music,instrument,String (music)
+music/instrument,music,instrument,Timpani
+music,music,music,Concert band
+music/performance_role,music,performance_role,Drum rudiment
+mythology,mythology,mythology,Chinese dragon
+mythology,mythology,mythology,Chinese mythology
+mythology,mythology,mythology,Chinese zodiac
+mythology,mythology,mythology,Dragon
+mythology,mythology,mythology,Eight Immortals
+mythology,mythology,mythology,Evil demon
+mythology,mythology,mythology,Fenghuang
+mythology,mythology,mythology,Garuda
+mythology,mythology,mythology,Hades
+mythology,mythology,mythology,Kui (Chinese mythology)
+mythology,mythology,mythology,Kui Xing
+mythology,mythology,mythology,Lokapala
+mythology,mythology,mythology,Longnü
+mythology,mythology,mythology,Makara
+mythology,mythology,mythology,Mars (mythology)
+mythology,mythology,mythology,Tian
+nature,nature,nature,Bronnen (Achstetten)
+nature,nature,nature,Nature
+nature,nature,nature,Sump
+nature,nature,nature,Water
+nature,nature,nature,Wildlife
+organization/organization,organization,organization,Cernuschi
+organization/organization,organization,organization,Guild
+other,other,other,Crousset
+other,other,other,Fujenma
+other,other,other,Guisi
+other,other,other,Khwej
+other,other,other,Leading-edge slat
+other,other,other,Mahecwara
+other,other,other,Shanying
+other,other,other,Shih-fang
+people/ethnicity,people,ethnicity,Dutch people
+people/ethnicity,people,ethnicity,Eurasian nomads
+people/ethnicity,people,ethnicity,Han Chinese
+people/ethnicity,people,ethnicity,Hoa people
+people/ethnicity,people,ethnicity,Huns
+people/ethnicity,people,ethnicity,Mongols
+people/ethnicity,people,ethnicity,Polish people
+people/ethnicity,people,ethnicity,Qiang (historical people)
+people/ethnicity,people,ethnicity,Tatars
+people/ethnicity,people,ethnicity,Westerners
+people/gender,people,gender,Male
+people/person,people,person,Ancestor
+people/person,people,person,Boccard
+people/person,people,person,C. Hentze
+people/person,people,person,Cai Xiang
+people/person,people,person,Carl Gustav Ekeberg
+people/person,people,person,Charles IV of Spain
+people/person,people,person,Chhang
+people/person,people,person,Chien
+people/person,people,person,Chien-an
+people/person,people,person,Chien-yang
+people/person,people,person,Child
+people/person,people,person,Chinese name
+people/person,people,person,Daoguang Emperor
+people/person,people,person,Deyi
+people/person,people,person,Duyvendak
+people/person,people,person,E.de
+people/person,people,person,Emperor of China
+people/person,people,person,Erik Zürcher
+people/person,people,person,Foy
+people/person,people,person,Gan Tjiang-tek
+people/person,people,person,Gao Luopei
+people/person,people,person,Guan Yu
+people/person,people,person,Guangxu Emperor
+people/person,people,person,Guo果亲王
+people/person,people,person,Han Zha
+people/person,people,person,Honoré
+people/person,people,person,Innes Herdan
+people/person,people,person,Jean-Baptiste Du Halde
+people/person,people,person,Joannes Nieuhoff
+people/person,people,person,Kang Youwei
+people/person,people,person,Kangxi Emperor
+people/person,people,person,Karwin Cheung
+people/person,people,person,King Fu Ren
+people/person,people,person,King Zhou of Shang
+people/person,people,person,Liang Qichao
+people/person,people,person,Lu Yu
+people/person,people,person,M. and F.
+people/person,people,person,Martin
+people/person,people,person,Mencius
+people/person,people,person,Mother Meng
+people/person,people,person,Mujüzi
+people/person,people,person,Ni Zan
+people/person,people,person,Piet
+people/person,people,person,Robert van Gulik
+people/person,people,person,Royer
+people/person,people,person,Schepel
+people/person,people,person,Shen Wei
+people/person,people,person,Siebold
+people/person,people,person,Tsung
+people/person,people,person,Tzu-Yuan
+people/person,people,person,Urfé
+people/person,people,person,Van Gulik
+people/person,people,person,Wang Xianzhi (calligrapher)
+people/person,people,person,Wang Xizhi
+people/person,people,person,Wang Zhihuan
+people/person,people,person,Wun Chhang
+people/person,people,person,Wun Chihang
+people/person,people,person,Xu Beihong
+people/person,people,person,Yan Qin Li Bei
+people/person,people,person,Yan Qinli
+people/person,people,person,Yan Ti
+people/person,people,person,Yan Zhenqing
+people/person,people,person,Yang Yongliang
+people/person,people,person,Yu Chongsheng Yu Chongsheng
+people/person,people,person,Yuh
+people/person,people,person,Yunli
+people/person,people,person,Zhang
+people/person,people,person,Zhu Jiyi
+people/person,people,person,Zhu Shang
+people/profession,people,profession,Auteur
+people/profession,people,profession,Curator
+people/profession,people,profession,Detective
+people/profession,people,profession,Diplomat
+people/profession,people,profession,Mandarin (bureaucrat)
+people/profession,people,profession,Meyer
+people/profession,people,profession,Priest
+people/profession,people,profession,Profession
+people/profession,people,profession,Sailor
+people/profession,people,profession,Scholar-official
+people/profession,people,profession,Sea captain
+people/profession,people,profession,Security guard
+people/social_role,people,social_role,Ambassador
+people/social_role,people,social_role,Aristocracy
+people/social_role,people,social_role,Bhikkhu
+people/social_role,people,social_role,Concubinage
+people/social_role,people,social_role,Emperor
+people/social_role,people,social_role,Father
+people/social_role,people,social_role,Hero
+people/social_role,people,social_role,Husband
+people/social_role,people,social_role,Mother
+people/social_role,people,social_role,Pupil
+people/social_role,people,social_role,Saint
+people/social_role,people,social_role,Son
+people/social_role,people,social_role,Warrior
+people/social_role,people,social_role,Youth
+philosophy,philosophy,philosophy,Ethics
+philosophy,philosophy,philosophy,Justice
+philosophy,philosophy,philosophy,Sin
+philosophy,philosophy,philosophy,Xian (Taoism)
+philosophy,philosophy,philosophy,Yin and yang
+physics/fundamental_interaction,physics,fundamental_interaction,Electricity
+physics/fundamental_interaction,physics,fundamental_interaction,Phase separation
+physics/fundamental_interaction,physics,fundamental_interaction,Pressure
+physics/fundamental_interaction,physics,fundamental_interaction,Sound
+projects/project_role,projects,project_role,Patent
+projects/project_role,projects,project_role,Prototype
+religion/belief,religion,belief,Afterlife
+religion/belief,religion,belief,Buddhahood
+religion/belief,religion,belief,Chakra
+religion/belief,religion,belief,Dharma
+religion/belief,religion,belief,Divinity
+religion/belief,religion,belief,Faith
+religion/belief,religion,belief,Heaven
+religion/belief,religion,belief,Hell
+religion/belief,religion,belief,Magic (supernatural)
+religion/belief,religion,belief,Mandate of Heaven
+religion/belief,religion,belief,Reincarnation
+religion/belief,religion,belief,Tirthankara
+religion/belief,religion,belief,Triratna
+religion/belief,religion,belief,Vajra
+religion/belief,religion,belief,Yamuna in Hinduism
+religion/deity,religion,deity,Amitābha
+religion/deity,religion,deity,Avalokiteśvara
+religion/deity,religion,deity,Awalokitecwara
+religion/deity,religion,deity,Bodhisattva
+religion/deity,religion,deity,Buddhist deities
+religion/deity,religion,deity,Creator deity
+religion/deity,religion,deity,Deity
+religion/deity,religion,deity,Demon
+religion/deity,religion,deity,Dharmapala
+religion/deity,religion,deity,Five Tathāgatas
+religion/deity,religion,deity,Ganesha
+religion/deity,religion,deity,Ghost
+religion/deity,religion,deity,God
+religion/deity,religion,deity,Goddess
+religion/deity,religion,deity,Guanyin
+religion/deity,religion,deity,Hayagriva
+religion/deity,religion,deity,Hindu deities
+religion/deity,religion,deity,Holy Spirit
+religion/deity,religion,deity,Horned God
+religion/deity,religion,deity,Magu (deity)
+religion/deity,religion,deity,Mahakala
+religion/deity,religion,deity,Queen Mother of the West
+religion/deity,religion,deity,Sanxing (deities)
+religion/deity,religion,deity,Shangdi
+religion/deity,religion,deity,Shiva
+religion/deity,religion,deity,The Buddha
+religion/deity,religion,deity,Tutelary deity
+religion/deity,religion,deity,Yama
+religion/deity,religion,deity,Zeus
+religion/event,religion,event,Canonization
+religion/event,religion,event,Enlightenment in Buddhism
+religion,religion,religion,Buddhism
+religion,religion,religion,Chan Buddhism
+religion,religion,religion,Chinese Buddhism
+religion,religion,religion,Christianity
+religion,religion,religion,Confucianism
+religion,religion,religion,Cross
+religion,religion,religion,Dalim Vajravarah
+religion,religion,religion,Halo (religious iconography)
+religion,religion,religion,Hinduism
+religion,religion,religion,Nirvana
+religion,religion,religion,Taoism
+religion,religion,religion,Tibetan Buddhism
+religion,religion,religion,Vajrayana
+religion,religion,religion,Zen
+religion/religious_leadership_title,religion,religious_leadership_title,Dalai Lama
+religion/religious_leadership_title,religion,religious_leadership_title,Lama
+religion/religious_leadership_title,religion,religious_leadership_title,Monk
+religion/religious_organization,religion,religious_organization,Jesuits
+religion/religious_organization,religion,religious_organization,Sangha
+religion/religious_practice,religion,religious_practice,Animal worship
+religion/religious_practice,religion,religious_practice,Burial
+religion/religious_practice,religion,religious_practice,Church service
+religion/religious_practice,religion,religious_practice,Danda
+religion/religious_practice,religion,religious_practice,Divination
+religion/religious_practice,religion,religious_practice,Ghanta
+religion/religious_practice,religion,religious_practice,Incense
+religion/religious_practice,religion,religious_practice,Invocation
+religion/religious_practice,religion,religious_practice,Meditation
+religion/religious_practice,religion,religious_practice,Pilgrimage
+religion/religious_practice,religion,religious_practice,Prayer
+religion/religious_practice,religion,religious_practice,Refuge in Buddhism
+religion/religious_practice,religion,religious_practice,Ritual
+religion/religious_practice,religion,religious_practice,Sacrifice
+religion/religious_practice,religion,religious_practice,Shankha
+religion/religious_practice,religion,religious_practice,Worship
+religion/religious_text,religion,religious_text,Om mani padme hum
+religion/religious_text,religion,religious_text,Oracle
+religion/religious_text,religion,religious_text,Relic
+religion/religious_text,religion,religious_text,Sudhana
+religion/religious_text,religion,religious_text,Sudhanakumara
+religion/religious_text,religion,religious_text,Sutra
+religion/type_of_place_of_worship,religion,type_of_place_of_worship,Altar
+religion/type_of_place_of_worship,religion,type_of_place_of_worship,Temple
+religion/type_of_place_of_worship,religion,type_of_place_of_worship,Temple of Confucius
+religion/type_of_place_of_worship,religion,type_of_place_of_worship,Tianmu Monasteries
+religion/type_of_place_of_worship,religion,type_of_place_of_worship,Vihāra
+royalty/monarch,royalty,monarch,Qianlong Emperor
+royalty/monarch,royalty,monarch,Qin Shi Huang
+royalty/monarch,royalty,monarch,Wanli Emperor
+royalty/monarch,royalty,monarch,Yongzheng Emperor
+royalty/noble_person,royalty,noble_person,Prince du sang
+royalty/noble_rank,royalty,noble_rank,Crown
+royalty/noble_rank,royalty,noble_rank,Queens
+society,society,society,Community
+society,society,society,Infidelity
+society,society,society,Population pressure
+society,society,society,Poverty
+society,society,society,Social issue
+society,society,society,Society
+society,society,society,Veneration of the dead
+sports/sport,sports,sport,Equestrianism
+symbol/flag,symbol,flag,Flag
+symbol/flag,symbol,flag,Flag of Denmark
+symbol/flag,symbol,flag,Flag of France
+symbol/flag,symbol,flag,Flag of the Netherlands
+symbol/flag,symbol,flag,Flag of the United States
+symbol/flag,symbol,flag,Triband (flag)
+symbol/flag,symbol,flag,White flag
+symbol,symbol,symbol,Crescent
+symbol,symbol,symbol,Emblem
+symbol,symbol,symbol,Motto
+symbol,symbol,symbol,Postage stamp
+symbol,symbol,symbol,Raised fist
+symbol,symbol,symbol,Sceptre
+symbol,symbol,symbol,Seal (East Asia)
+symbol,symbol,symbol,Seal (emblem)
+symbol,symbol,symbol,Symbol
+time/calendar,time,calendar,Chinese calendar
+time/calendar,time,calendar,Gregorian calendar
+time/dynasty,time,dynasty,Ancient history
+time/dynasty,time,dynasty,Chou
+time/dynasty,time,dynasty,Dynasty
+time/dynasty,time,dynasty,Ming dynasty
+time/dynasty,time,dynasty,Northern and Southern dynasties
+time/dynasty,time,dynasty,Northern Wei
+time/dynasty,time,dynasty,Prehistory
+time/dynasty,time,dynasty,Qin dynasty
+time/dynasty,time,dynasty,Qing dynasty
+time/dynasty,time,dynasty,Shang dynasty
+time/dynasty,time,dynasty,Shu Han
+time/dynasty,time,dynasty,Song dynasty
+time/dynasty,time,dynasty,Tang dynasty
+time/dynasty,time,dynasty,Yuan dynasty
+time/dynasty,time,dynasty,Zhou dynasty
+time/holiday,time,holiday,Chinese New Year
+time/period,time,period,Time immemorial
+time_series/unit,time_series,unit,Common Era
+time_series/unit,time_series,unit,Milestone
+tool,tool,tool,Abacus
+tool,tool,tool,Axe
+tool,tool,tool,Brush
+tool,tool,tool,Handle
+tool,tool,tool,Knife
+tool,tool,tool,Lasso
+tool,tool,tool,Mirror
+tool,tool,tool,Oil lamp
+tool,tool,tool,Paper
+tool,tool,tool,Pen
+tool,tool,tool,Pitcher
+tool,tool,tool,Ruyi (scepter)
+tool,tool,tool,Screw
+tool,tool,tool,Spear
+tool,tool,tool,Spoon
+tool,tool,tool,Sword
+tool,tool,tool,Teapot
+tool,tool,tool,Tool
+tool,tool,tool,Trident
+tool,tool,tool,Urn
+tool,tool,tool,Vase
+tool,tool,tool,Vase with lid
+tool,tool,tool,Vial
+tool,tool,tool,Weapon
+tool,tool,tool,Wheel
+tool,tool,tool,Wire
+transportation,transportation,transportation,Transport
+transportation/vehicle,transportation,vehicle,Cargo
+transportation/vehicle,transportation,vehicle,Port
+transportation/vehicle,transportation,vehicle,Sail
+transportation/vehicle,transportation,vehicle,Ship
+visual_art/art_acquisition_method,visual_art,art_acquisition_method,Provenance
+visual_art/art_form,visual_art,art_form,Art
+visual_art/art_form,visual_art,art_form,Calligraphy
+visual_art/art_form,visual_art,art_form,Chinese art
+visual_art/art_form,visual_art,art_form,Chinese calligraphy
+visual_art/art_form,visual_art,art_form,Chinese painting
+visual_art/art_form,visual_art,art_form,Drawing
+visual_art/art_form,visual_art,art_form,Iconography
+visual_art/art_form,visual_art,art_form,Illustration
+visual_art/art_form,visual_art,art_form,Ink wash painting
+visual_art/art_form,visual_art,art_form,Landscape painting
+visual_art/art_form,visual_art,art_form,Les Arts Coloniaux
+visual_art/art_form,visual_art,art_form,Map
+visual_art/art_form,visual_art,art_form,Miniature (illuminated manuscript)
+visual_art/art_form,visual_art,art_form,Mural
+visual_art/art_form,visual_art,art_form,Oil painting
+visual_art/art_form,visual_art,art_form,Paint
+visual_art/art_form,visual_art,art_form,Painting
+visual_art/art_form,visual_art,art_form,Peint
+visual_art/art_form,visual_art,art_form,Photography
+visual_art/art_form,visual_art,art_form,Placard
+visual_art/art_form,visual_art,art_form,Relief
+visual_art/art_form,visual_art,art_form,Replica
+visual_art/art_form,visual_art,art_form,Sculpture
+visual_art/art_form,visual_art,art_form,Statue
+visual_art/art_form,visual_art,art_form,Stele
+visual_art/art_form,visual_art,art_form,Tattoo
+visual_art/art_form,visual_art,art_form,Technical drawing
+visual_art/art_subject,visual_art,art_subject,Landscape
+visual_art/art_subject,visual_art,art_subject,Nude (art)
+visual_art/art_subject,visual_art,art_subject,Portrait
+visual_art/art_subject,visual_art,art_subject,Sacred lotus in religious art
+visual_art/art_subject,visual_art,art_subject,Shan shui
+visual_art/art_technique,visual_art,art_technique,Casting
+visual_art/art_technique,visual_art,art_technique,Ceramic glaze
+visual_art/art_technique,visual_art,art_technique,Cloisonné
+visual_art/art_technique,visual_art,art_technique,Craquelure
+visual_art/art_technique,visual_art,art_technique,Dowsing
+visual_art/art_technique,visual_art,art_technique,Engraving
+visual_art/art_technique,visual_art,art_technique,Epigraphy
+visual_art/art_technique,visual_art,art_technique,Gilding
+visual_art/art_technique,visual_art,art_technique,Goldwork (embroidery)
+visual_art/art_technique,visual_art,art_technique,Inlay
+visual_art/art_technique,visual_art,art_technique,Lost-wax casting
+visual_art/art_technique,visual_art,art_technique,Perspective (graphical)
+visual_art/art_technique,visual_art,art_technique,Soldering
+visual_art/art_technique,visual_art,art_technique,Trompe-l'œil
+visual_art/art_technique,visual_art,art_technique,Underglaze
+visual_art/art_technique,visual_art,art_technique,Vitreous enamel
+visual_art/art_technique,visual_art,art_technique,Vitrification
+visual_art/artwork,visual_art,artwork,A Bat-Trang
+visual_art/artwork,visual_art,artwork,Altar cloth
+visual_art/artwork,visual_art,artwork,Altar lamp
+visual_art/artwork,visual_art,artwork,Altarpiece
+visual_art/artwork,visual_art,artwork,Artifact (archaeology)
+visual_art/artwork,visual_art,artwork,Banner
+visual_art/artwork,visual_art,artwork,Basket
+visual_art/artwork,visual_art,artwork,Bát Tràng
+visual_art/artwork,visual_art,artwork,Bell
+visual_art/artwork,visual_art,artwork,Blue and white pottery
+visual_art/artwork,visual_art,artwork,Bowl
+visual_art/artwork,visual_art,artwork,Box
+visual_art/artwork,visual_art,artwork,Bronze mirror
+visual_art/artwork,visual_art,artwork,Bust (sculpture)
+visual_art/artwork,visual_art,artwork,Candle
+visual_art/artwork,visual_art,artwork,Candlestick
+visual_art/artwork,visual_art,artwork,Carpet
+visual_art/artwork,visual_art,artwork,Castanets
+visual_art/artwork,visual_art,artwork,Celadon
+visual_art/artwork,visual_art,artwork,Censer
+visual_art/artwork,visual_art,artwork,Cha Lu
+visual_art/artwork,visual_art,artwork,Chamber pot
+visual_art/artwork,visual_art,artwork,Chandelier
+visual_art/artwork,visual_art,artwork,Chinese ritual bronzes
+visual_art/artwork,visual_art,artwork,Coin
+visual_art/artwork,visual_art,artwork,Collectable
+visual_art/artwork,visual_art,artwork,Commemorative plaque
+visual_art/artwork,visual_art,artwork,Concentric objects
+visual_art/artwork,visual_art,artwork,Curved mirror
+visual_art/artwork,visual_art,artwork,Deyi Xianxiongzhengshu Liang Qichao Geschreven
+visual_art/artwork,visual_art,artwork,Ding (vessel)
+visual_art/artwork,visual_art,artwork,Facet
+visual_art/artwork,visual_art,artwork,Figurine
+visual_art/artwork,visual_art,artwork,Garland
+visual_art/artwork,visual_art,artwork,Grave goods
+visual_art/artwork,visual_art,artwork,Hanging
+visual_art/artwork,visual_art,artwork,Hanging scroll
+visual_art/artwork,visual_art,artwork,Head restraint
+visual_art/artwork,visual_art,artwork,Headstone
+visual_art/artwork,visual_art,artwork,Image
+visual_art/artwork,visual_art,artwork,Jian ware
+visual_art/artwork,visual_art,artwork,Jug
+visual_art/artwork,visual_art,artwork,Kakemono
+visual_art/artwork,visual_art,artwork,Knot
+visual_art/artwork,visual_art,artwork,Lantern
+visual_art/artwork,visual_art,artwork,Lead-glazed earthenware
+visual_art/artwork,visual_art,artwork,Les figurines
+visual_art/artwork,visual_art,artwork,Long gu
+visual_art/artwork,visual_art,artwork,Longquan celadon
+visual_art/artwork,visual_art,artwork,Medal
+visual_art/artwork,visual_art,artwork,Mingqi
+visual_art/artwork,visual_art,artwork,Opium den
+visual_art/artwork,visual_art,artwork,Phantom Landscape III
+visual_art/artwork,visual_art,artwork,Souvenir
+visual_art/artwork,visual_art,artwork,Tangent
+visual_art/artwork,visual_art,artwork,Tenmoku
+visual_art/artwork,visual_art,artwork,Vietnamese ceramics
+visual_art/color,visual_art,color,Black-and-white
+visual_art/color,visual_art,color,Blue-green
+visual_art/color,visual_art,color,Cobalt blue
+visual_art/color,visual_art,color,Color
+visual_art/color,visual_art,color,Polychrome
+visual_art/color,visual_art,color,Red hair
+visual_art/color,visual_art,color,Shades of green
+visual_art/color,visual_art,color,Slate gray
+visual_art/color,visual_art,color,Spring green
+visual_art/measurement_unit,visual_art,measurement_unit,Bushel
+visual_art/measurement_unit,visual_art,measurement_unit,Diameter
+visual_art/measurement_unit,visual_art,measurement_unit,Dimension
+visual_art/measurement_unit,visual_art,measurement_unit,Height
+visual_art/measurement_unit,visual_art,measurement_unit,Mass
+visual_art/shape,visual_art,shape,Circle
+visual_art/shape,visual_art,shape,Convex polygon
+visual_art/shape,visual_art,shape,Diagonal
+visual_art/shape,visual_art,shape,Hexagon
+visual_art/shape,visual_art,shape,Shape
+visual_art/shape,visual_art,shape,Sphere
+visual_art/shape,visual_art,shape,Spiral
+visual_art/shape,visual_art,shape,Triangle
+visual_art/technique,visual_art,technique,Appliqué
+visual_art,visual_art,visual_art,Design
+visual_art,visual_art,visual_art,Jinshixue
+visual_art,visual_art,visual_art,Motif (visual arts)
+visual_art/art_form,visual_art,art_form,Ornament (art)
+visual_art/art_form,visual_art,art_form,Pottery
+visual_art/visual_art_medium,visual_art,visual_art_medium,Bead
+visual_art/visual_art_medium,visual_art,visual_art_medium,Brocade
+visual_art/visual_art_medium,visual_art,visual_art_medium,Canvas
+visual_art/visual_art_medium,visual_art,visual_art_medium,Ceramic
+visual_art/visual_art_medium,visual_art,visual_art_medium,Chinese ceramics
+visual_art/visual_art_medium,visual_art,visual_art_medium,Dye
+visual_art/visual_art_medium,visual_art,visual_art_medium,Earthenware
+visual_art/visual_art_medium,visual_art,visual_art_medium,Faience
+visual_art/visual_art_medium,visual_art,visual_art_medium,Fiber
+visual_art/visual_art_medium,visual_art,visual_art_medium,Foam
+visual_art/visual_art_medium,visual_art,visual_art_medium,Fuel
+visual_art/visual_art_medium,visual_art,visual_art_medium,Fur
+visual_art/visual_art_medium,visual_art,visual_art_medium,Glass
+visual_art/visual_art_medium,visual_art,visual_art_medium,Ink
+visual_art/visual_art_medium,visual_art,visual_art_medium,Ivory
+visual_art/visual_art_medium,visual_art,visual_art_medium,Lace
+visual_art/visual_art_medium,visual_art,visual_art_medium,Lacquer
+visual_art/visual_art_medium,visual_art,visual_art_medium,Leather
+visual_art/visual_art_medium,visual_art,visual_art_medium,Lime (material)
+visual_art/visual_art_medium,visual_art,visual_art_medium,Liquid
+visual_art/visual_art_medium,visual_art,visual_art_medium,Lumber
+visual_art/visual_art_medium,visual_art,visual_art_medium,Openwork
+visual_art/visual_art_medium,visual_art,visual_art_medium,Orange peel (effect)
+visual_art/visual_art_medium,visual_art,visual_art_medium,Patent leather
+visual_art/visual_art_medium,visual_art,visual_art_medium,Silk
+visual_art/visual_art_medium,visual_art,visual_art_medium,Textile
+visual_art/visual_art_medium,visual_art,visual_art_medium,Varnish
+weapon,weapon,weapon,Bow and arrow
+weapon,weapon,weapon,Dagger
+weapon,weapon,weapon,Hilt
