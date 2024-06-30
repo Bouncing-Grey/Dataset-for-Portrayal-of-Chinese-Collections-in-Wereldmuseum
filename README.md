@@ -26,3 +26,7 @@ This repository contains datasets used for geo-visualization, media visualizatio
 
 4. **Geojson**
    - Repository: [GeoJSON Map of China](https://github.com/longwosion/geojson-map-china.git)
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
